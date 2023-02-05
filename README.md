@@ -3,9 +3,11 @@
 Pokémon Battle Simulator: Version 15-112
 @ author: JanetLou Guan 
 
-#=======================================================================#
+#========================================================================#
+
 Description:
-#=======================================================================#
+
+#========================================================================#
 
 *	A generation 1 Pokémon battle simulator where the player can play against an AI
 *	with randomly generated teams and move sets. 
