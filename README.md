@@ -1,4 +1,4 @@
-# Pok-mon-Battle-Simulator-Version-15-112-TP-
+# Pokemon_Battle_Simulator_Version_15-112-TP
 
 Pokémon Battle Simulator: Version 15-112
 @ author: JanetLou Guan 
