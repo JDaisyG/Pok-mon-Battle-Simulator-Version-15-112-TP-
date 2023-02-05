@@ -30,4 +30,4 @@ Controls:
 #========================================================================#
 Additional installations
 #========================================================================#
-*	Make sure the 04b03 font is installed
+*	Make sure the 04b03 font is installed 
